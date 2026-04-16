@@ -33,3 +33,20 @@ To analyze passenger data and build a classification model that predicts surviva
   - Precision, Recall, F1-score
 
 ## 📁 Project Structure
+titanic-survival-prediction/
+│── titanic_survival_prediction.py
+│── train.csv
+│── visualizations.png
+│── confusion_matrix.png
+│── output.txt
+│── requirements.txt
+│── README.md
+
+
+## 🧠 Key Insights
+- Female passengers had higher survival rates  
+- Higher class passengers had better chances  
+- Family size influenced survival  
+
+## 🚀 Conclusion
+This project demonstrates how machine learning can extract insights and make predictions from real-world data.
